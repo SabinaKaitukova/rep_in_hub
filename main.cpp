@@ -1,3 +1,5 @@
+// Эта программа является учебной 
+
 #include "sdt.h"
 #include <iostream>
 
