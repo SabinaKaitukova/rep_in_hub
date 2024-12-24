@@ -7,6 +7,7 @@ int main() {
     cout << "Введите два числа: ";
     cin >> a >> b;
     cout << "Разность: " << a - b << endl;
+    cout << "Произведение: " << a * b << endl;
     return 0;
 }
 
